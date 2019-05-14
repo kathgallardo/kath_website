@@ -25,6 +25,14 @@
         <label class="email"> kathlynngallardo.25@gmail.com</label>
       </span>
     </div>
+    <div class="plants">
+      <figure class="svg1">
+        <img src="assets/1.svg" class="-img">
+      </figure>
+       <figure class="svg2">
+       <img src="assets/2.svg" class="-img">
+      </figure>
+    </div>
     <div class="tab">
       <ul class="nav nav-pills">
         <li class="active">
