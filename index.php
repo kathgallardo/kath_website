@@ -17,13 +17,21 @@
   <div class="header">
     <div class="details">
       <figure class="profile_img">
-        <img src="https://i.pinimg.com/564x/2b/45/88/2b45884aa142f17c5e1f0be87c34d32a.jpg" class="img">
+        <img src="https://i.pinimg.com/564x/e7/13/c9/e713c9d591f5a173672ef03b5ee1d1d1.jpg" class="img">
       </figure>
       <span class="content">
         <label class="name"> Kathlynn Gallardo</label>
         <label class="occ"> UI/UX Designer and Illustrator</label>
         <label class="email"> kathlynngallardo.25@gmail.com</label>
       </span>
+    </div>
+    <div class="plants">
+      <figure class="svg1">
+        <img src="assets/1.svg" class="-img">
+      </figure>
+       <figure class="svg2">
+       <img src="assets/2.svg" class="-img">
+      </figure>
     </div>
     <div class="tab">
       <ul class="nav nav-pills">
