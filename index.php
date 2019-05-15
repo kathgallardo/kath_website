@@ -17,7 +17,7 @@
   <div class="header">
     <div class="details">
       <figure class="profile_img">
-        <img src="https://i.pinimg.com/564x/2b/45/88/2b45884aa142f17c5e1f0be87c34d32a.jpg" class="img">
+        <img src="https://i.pinimg.com/564x/e7/13/c9/e713c9d591f5a173672ef03b5ee1d1d1.jpg" class="img">
       </figure>
       <span class="content">
         <label class="name"> Kathlynn Gallardo</label>
