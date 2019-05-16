@@ -78,6 +78,11 @@ label{
   color: #3c3c3c;
   font-size: 16px;
 }
+.bio{
+  font-weight: 600;
+  font-size: 18px;
+  padding-top: 20px !important;
+}
 .profile_img{
   width: 150px;
   height: 150px;
@@ -137,6 +142,7 @@ a.effect-underline:hover:after {
   -webkit-transform: scale(1);
   transform: scale(1);
 }
+
 /*.tab-content{
   padding: 10vh 50vh 20vh 50vh;
 }*/

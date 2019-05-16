@@ -31,6 +31,8 @@
 
 
 
+
+
     </div>
     <div class="plants">
       <figure class="svg1">
@@ -90,8 +92,6 @@
     <span>Kathlynngallardo.25@gmail.com</span>
     <span> Design and built with ❤️ </span>
     <span> ©️ kathlynnGallardo</span>
-  </div>
-  <div class="background">
   </div>
 </footer>
 </body>
