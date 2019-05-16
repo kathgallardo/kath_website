@@ -51,6 +51,9 @@
         <li><a class="effect-underline" data-toggle="pill" href="#illus">Illustrations</a></li>
         <li><a class="effect-underline" data-toggle="pill" href="#vector">Vectors</a></li>
         <li><a class="effect-underline" data-toggle="pill" href="#icons">Icons</a></li>
+        <li><a class="effect-underline" data-toggle="pill" href="#icons">Logo Designs</a></li>
+        <li><a class="effect-underline" data-toggle="pill" href="#icons">Tshirt Designs</a></li>
+        <li><a class="effect-underline" data-toggle="pill" href="#icons">Bio</a></li>
       </ul>
     </div>
   </div>

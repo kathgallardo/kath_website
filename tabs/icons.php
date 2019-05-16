@@ -13,6 +13,9 @@
 	<figure class="image">
 		<img src="assets/icon/icon4.png" class="-img">
 	</figure>
+	<figure class="image">
+		<img src="assets/icon/icon5.png" class="-img">
+	</figure>
 </div>
 	
 </main>
