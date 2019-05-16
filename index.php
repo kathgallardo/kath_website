@@ -51,9 +51,7 @@
         <li><a class="effect-underline" data-toggle="pill" href="#illus">Illustrations</a></li>
         <li><a class="effect-underline" data-toggle="pill" href="#vector">Vectors</a></li>
         <li><a class="effect-underline" data-toggle="pill" href="#icons">Icons</a></li>
-        <li><a class="effect-underline" data-toggle="pill" href="#icons">Logo Designs</a></li>
-        <li><a class="effect-underline" data-toggle="pill" href="#icons">Tshirt Designs</a></li>
-        <li><a class="effect-underline" data-toggle="pill" href="#icons">Bio</a></li>
+        <li><a class="effect-underline" data-toggle="pill" href="#logo">Logo Designs</a></li>
       </ul>
     </div>
   </div>
@@ -76,6 +74,9 @@
     </div>
     <div id="icons" class="tab-pane fade">
       <?php include 'tabs/icons.php'; ?>
+    </div>
+    <div id="logo" class="tab-pane fade">
+      <?php include 'tabs/logo.php'; ?>
     </div>
 
   </div>

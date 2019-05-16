@@ -77,9 +77,6 @@
 		<img src="assets/vector/vector25.png" class="-img">
 	</figure>
 	<figure class="image">
-		<img src="assets/vector/vector26.png" class="-img">
-	</figure>
-	<figure class="image">
 		<img src="assets/vector/vector27.png" class="-img">
 	</figure>
 	<figure class="image">
