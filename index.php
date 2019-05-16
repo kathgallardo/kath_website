@@ -84,5 +84,15 @@
   <?php #FOOTER ?>
 
 </main>
+
+<footer class="footer">
+  <div class="content">
+    <span>Kathlynngallardo.25@gmail.com</span>
+    <span> Design and built with ❤️ </span>
+    <span> ©️ kathlynnGallardo</span>
+  </div>
+  <div class="background">
+  </div>
+</footer>
 </body>
 </html>

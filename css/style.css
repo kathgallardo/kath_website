@@ -17,10 +17,10 @@ body{
   padding: 15vh 0vh 0vh 0vh;
   background: linear-gradient(136deg, #a8d8ea, #aa96da, #fcbad3, #ffffd2);
   background-size: 800% 800%;
-  -webkit-animation: AnimationName 52s ease infinite;
-  -moz-animation: AnimationName 52s ease infinite;
-  -o-animation: AnimationName 52s ease infinite;
-  animation: AnimationName 52s ease infinite;
+  -webkit-animation: AnimationName 40s ease infinite;
+  -moz-animation: AnimationName 40s ease infinite;
+  -o-animation: AnimationName 40s ease infinite;
+  animation: AnimationName 40s ease infinite;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -173,6 +173,30 @@ margin-bottom: 3vh;
 .plants .svg2{
   position:  relative;
   top: -180px;
+}
+.footer .content{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding:10vh;
+}
+.footer .background{
+  width: 100%;
+  height: 20vh;
+  background: linear-gradient(136deg, #a8d8ea, #aa96da, #fcbad3, #ffffd2);
+  background-size: 800% 800%;
+  -webkit-animation: AnimationName 40s ease infinite;
+  -moz-animation: AnimationName 40s ease infinite;
+  -o-animation: AnimationName 40s ease infinite;
+  animation: AnimationName 40s ease infinite;
+}
+.footer span{
+  font-size: 16px;
+}
+.footer span:nth-child(1){
+  padding-bottom: 20px;
 }
 /*
 .-btn{
