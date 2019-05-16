@@ -13,43 +13,13 @@ main{
 	padding: 0vh;
 }
 .mobile .image{
-	width: 76vh;
+  width: auto;
   height: auto;
-  margin: 26px;
+  margin: 0px !important;
 }
 .-img{
 	width: 100%;
 	height: 100%;
 	object-fit: contain;
-	border-radius: 6px;
-	-webkit-box-shadow: -1px -1px 5px 2px rgba(230,230,230,1);
-	-moz-box-shadow: -1px -1px 5px 2px rgba(230,230,230,1);
-	box-shadow: -1px -1px 5px 2px rgba(230,230,230,1);
 }
-.mydivouter{
-  position: relative;
-  width: 250px;
-  height: 250px;
-  margin: 0 auto;
-  background-color: pink;
-  padding: 20px;
-}
-.mydivoverlap{
-	position: relative;
-	z-index: 1;
-}
-.mybuttonoverlap{
-  position: absolute;
-  z-index: 1000;
-  top: 64px;
-  display: none;
-  left: 59px;
-}
-.mydivouter:hover .mybuttonoverlap{ 
-	display:block;
-}
-.img{
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-}
+

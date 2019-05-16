@@ -4,17 +4,21 @@
 <head>
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" type="text/css" href="css/tab.css">
+  <link rel="stylesheet" type="text/css" href="scss/style.scss">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="./lib/jquery-3.3.1.min.js"></script>
+  <!-- <script type="text/javascript" src="./lib/jquery-3.3.1.min.js"></script> -->
 </head>
 <body>
 <main class="container">
 
   <?php #HEADER ?>
   <div class="header">
+
+  
     <div class="details">
       <figure class="profile_img">
         <img src="https://i.pinimg.com/564x/e7/13/c9/e713c9d591f5a173672ef03b5ee1d1d1.jpg" class="img">
@@ -24,6 +28,9 @@
         <label class="occ"> UI/UX Designer and Illustrator</label>
         <label class="email"> kathlynngallardo.25@gmail.com</label>
       </span>
+
+
+
     </div>
     <div class="plants">
       <figure class="svg1">
@@ -33,6 +40,9 @@
        <img src="assets/2.svg" class="-img">
       </figure>
     </div>
+
+
+
     <div class="tab">
       <ul class="nav nav-pills">
         <li class="active">
