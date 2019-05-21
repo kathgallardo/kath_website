@@ -54,6 +54,7 @@
         <li><a class="effect-underline" data-toggle="pill" href="#vector">Vectors</a></li>
         <li><a class="effect-underline" data-toggle="pill" href="#icons">Icons</a></li>
         <li><a class="effect-underline" data-toggle="pill" href="#logo">Logo Designs</a></li>
+        <li><a class="effect-underline" data-toggle="pill" href="#gra">Graphics</a></li>
       </ul>
     </div>
   </div>
@@ -80,7 +81,9 @@
     <div id="logo" class="tab-pane fade">
       <?php include 'tabs/logo.php'; ?>
     </div>
-
+    <div id="gra" class="tab-pane fade">
+      <?php include 'tabs/graphics.php'; ?>
+    </div>
   </div>
 
   <?php #FOOTER ?>
