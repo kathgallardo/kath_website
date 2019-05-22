@@ -204,38 +204,54 @@ margin-bottom: 3vh;
 .footer span:nth-child(1){
   padding-bottom: 20px;
 }
-/*
-.-btn{
-  background-color: transparent !important;
-  border: 0px solid transparent !important;
-  width: auto;
-  height: auto;
-  margin: -23px;
-  border-radius: 5px !important;
-}
-.btn.active, .btn:active{
-  -webkit-box-shadow: inset 0 0px 0px rgba(0,0,0,0) !important; 
-  box-shadow: inset 0 0px 0px rgba(0,0,0,0) !important;
-}
-.fa-heart:before{
-  font-size: 45px;
-}
-.active{
-  color: black;
-}
-.mydivouter button:hover{
-  display: block;
-}*/
 
-/*@media screen and (max-width: 2000px){
- .plants .svg1{
-  top: 220px;
+
+@media screen and (max-width: 769px) {
+  .header{
+    padding: 5vh 0vh 0vh 0vh;
+  }
+  .details {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-bottom: 4vh;
+    padding-top: 0vh;
+    width: 80%;
+    z-index: 100;
+  }
+  .profile_img {
+    width: 100px;
+    height: 100px;
+  }
+  .name {
+    font-size: 16px;
+    color: #3c3c3c;
+  }
+  .occ {
+    font-weight: 400;
+    color: #3c3c3c;
+    font-size: 12px;
+  }
+  .email {
+    font-weight: 400;
+    color: #3c3c3c;
+    font-size: 12px;
+  }
+  .plants .svg1 {
+    position: relative;
+    top: 64px;
+  }
+  .plants .svg2 {
+    position: relative;
+    top: -35px;
+  }
+ .header .tab{
+   display: none;
  }
- .plants .svg2{
-  top: -304px;
+ .footer span{
+  font-size: 14px;
  }
 }
-
 
 
 

@@ -4,7 +4,8 @@
 <head>
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" type="text/css" href="css/tab.css">
-  <link rel="stylesheet" type="text/css" href="scss/style.scss">
+  <link rel="stylesheet" type="text/css" href="css/mobilenav.css">
+  <link rel="stylesheet" type="text/css" href="js/mobilenav.js">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,6 +15,57 @@
 </head>
 <body>
 <main class="container">
+
+
+<?php #MOBILE NAV?>
+<header>
+        <div class="container">
+          <nav id="navigation">
+            <a href="#" class="logo">Jan Czizikow</a>
+            <a aria-label="mobile menu" class="nav-toggle">
+              <span></span>
+              <span></span>
+              <span></span>
+            </a>
+              <ul class="menu-left">
+                <li><a href="#about">About</a></li>
+                <li><a href="#exp">Resume</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+              </ul>
+          </nav>
+        </div>
+      </header>
+
+<section id="about">
+<div class="container">
+  <h1>Fully responsive navigation</h1>
+  <p>Mobile hamburger menu with css3 animations, animated links on hover, hide navigation on scroll down / show on scroll up (<a href="https://medium.com/@mariusc23/hide-header-on-scroll-down-show-on-scroll-up-67bbaae9a78c#.xnr8amvlw">credit to Marius Craciunoiu</a>)</p>
+  <p class="signature">Made with ♥ by <a href="http://www.janczizikow.com/"> Jan Czizikow</a></p>
+  </div>
+</section>
+
+<section id="exp">
+  <div class="container">
+  <h1>Resume</h1></div>
+</section>
+
+<section id="skills">
+  <div class="container">
+  <h1>skills</h1></div>
+</section>
+
+<section id="projects">
+  <div class="container">
+  <h1>projects</h1></div>
+</section>
+
+<section id="contact">
+  <div class="container">
+  <h1>contact</h1></div>
+</section>
+
 
   <?php #HEADER ?>
   <div class="header">
@@ -90,6 +142,7 @@
 
 </main>
 
+
 <footer class="footer">
   <div class="content">
     <span>Kathlynngallardo.25@gmail.com</span>
@@ -97,5 +150,6 @@
     <span> ©️ kathlynnGallardo</span>
   </div>
 </footer>
+
 </body>
 </html>
